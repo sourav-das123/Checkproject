@@ -25,6 +25,7 @@ public class Session
         else
         {
             System.out.println("Not a palindrome");
+            System.out.println("Hello World");
         }
     }
 
